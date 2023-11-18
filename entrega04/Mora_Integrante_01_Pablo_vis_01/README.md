@@ -1,0 +1,1 @@
+Para realizar el gráfico que presento tuve que indagar en varias fuentes de información que hablaban de consumo de alimentos en Chile. Al final, la que utilicé fue la que tenía información comparable y seria. Es por eso que tomé el dato de la
