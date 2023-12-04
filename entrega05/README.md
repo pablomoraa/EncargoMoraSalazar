@@ -1,6 +1,5 @@
 # EncargoMoraSalazar
 https://github.com/pablomoraa/pablomoraa.github.io
-pablomoraa.github.io
 
 
 En esta parte del proceso no enfocamos en la creación de nuestra webstory. Primero nos planteamos qué puede hacer el otro, de acuerdo a la facilidad y disponibilidad de cada uno, es decir, distribuyendo las tareas de manera estratégica. Esto con el fin de poder cumplir nuestro objetivo de mostrar cómo la alimentación sí importa en Chile y en los efectos del cambio climático.
