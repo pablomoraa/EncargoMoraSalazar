@@ -1,0 +1,60 @@
+ <section>
+        <div id="grafico">
+        
+        <div class="grafico-container">
+        <div class= "flourish-embed flourish-chart" data-src="visualisation/16151648"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+        </div>
+
+        <div class="grafico-container">
+        <div class="flourish-embed flourish-chart" data-src="visualisation/16153424"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+        </div>
+
+        <div class="grafico-container">
+        <div class="flourish-embed flourish-chart" data-src="visualisation/16153491"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+        </div>
+    </div>
+    </section>
+
+    <section>
+        <div class="flourish-embed flourish-chart" data-src="visualisation/16153551"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </section>
+
+
+    <section>
+        <div class="flourish-embed flourish-chart" data-src="visualisation/16153551"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </section>
+
+    <section>
+        <div id="graficos-del-calculo-de-gei-segun-alimento">
+            <div class="grafico-container2">
+                <div class="flourish-embed flourish-chart" data-src="visualisation/16155127"><script src="https://public.flourish.studio/resources/embed.js"></script> 
+            </div>
+        </div>
+
+            <div class="grafico-container2">
+              <div class="flourish-embed flourish-chart" data-src="visualisation/16155305"><script src="https://public.flourish.studio/resources/embed.js"></script>
+             </div>
+             </div>
+        </div>
+
+    </div>
+    </section>
+
+
+    <section>
+        <div id="graficos-del-calculo-de-gei-segun-alimento">
+            <div class="grafico-container3">
+                <div class="flourish-embed flourish-chart" data-src="visualisation/16155609"><script src="https://public.flourish.studio/resources/embed.js"></script>
+            </div>
+        </div>
+
+            <div class="grafico-container3">
+              <div class="flourish-embed flourish-chart" data-src="visualisation/16155607"><script src="https://public.flourish.studio/resources/embed.js"></script>
+             </div>
+             </div>
+        </div>
+
+    </div>
+    </section>
+
+
